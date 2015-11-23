@@ -13,5 +13,6 @@ All payment will be due, negotiated, and processed after the possibility of expl
 
 ## Clause 4 - Client's Rights
 You have the right:
+
 1. To negotiate the payment requested
 2. To select a server for the service to be carried out on
